@@ -1,0 +1,61 @@
+/* Navigation styles */
+
+/* This is the real stylesheet */
+
+.navigation {
+    display: inline-block;
+    background-color: navy;
+    padding: 14px 16px;
+    font-size: 17px;
+    color: white;
+    padding: 1%;
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+.ul1 {
+    width: 50%;
+    margin-left: auto;
+}
+.heroImg {
+    background: fill;
+    background: cover;
+}
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+.footer {
+    background-color: navy;
+    padding: 1%;
+    color: white;
+}
+
+.ul2 {
+    display: inline-block;
+    vertical-align: center;
+  }
+.float-child1 {
+    background-repeat: no-repeat;
+    float:left;
+    margin: auto;
+}  
+
+h1 { 
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+.float-child2 {
+    background-repeat: no-repeat;
+    float: right;
+    margin: auto
+}
+
+h2 {
+    color: black;
+    background-color: white;
+    text-align: center;
+}
